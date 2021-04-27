@@ -1,5 +1,3 @@
-# Deploy Static Website on AWS
-
 # Deploying a static website to AWS using S3, CloudFront, and IAM.
 
 The files included are: 
