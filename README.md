@@ -9,7 +9,7 @@ index.html - The Index document for the website.
 /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 /css - CSS files for the website.
 
-# Deployed website on Cloudfront
+# Deployed website on s3 bucket with Cloudfront
 ![Annotation 2021-04-27 022626](https://user-images.githubusercontent.com/32970780/116171135-18a16100-a700-11eb-84c7-1b564ce7ec03.png)
 
 ![Annotation 2021-04-27 020102](https://user-images.githubusercontent.com/32970780/116170284-6cab4600-a6fe-11eb-8880-3806a38f2d26.png)
